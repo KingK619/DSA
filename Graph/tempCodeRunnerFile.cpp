@@ -1,9 +1,1 @@
-    // for (int i = 0; i < V; i++)
-    // {
-    //     cout << disc[i] << " ";
-    // }
-    // cout << endl;
-    // for (int i = 0; i < V; i++)
-    // {
-    //     cout << low[i] << " ";
-    // }
+if (insert(root, M, row, 0) == true)
